@@ -203,7 +203,6 @@ margin-top: 10px;
   margin-bottom: 45px;
   width:98%;
 }
-
 .card-container {
   display: flex;
   flex-wrap: wrap;
@@ -520,15 +519,20 @@ margin-top: 10px;
   .rights-reserved {
       margin-top: 20px;
   }
-    .card {
+
+  .card {
     flex: 1 1 100%; /* Full width on smaller screens */
 }
+
 }
+
 @media screen and (max-width: 576px) {
   .card {
     flex: 1 1 100%; /* Full width on smaller screens */
 }
 }
+
+
 
 
 
