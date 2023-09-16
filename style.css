@@ -520,8 +520,15 @@ margin-top: 10px;
   .rights-reserved {
       margin-top: 20px;
   }
+    .card {
+    flex: 1 1 100%; /* Full width on smaller screens */
 }
-
+}
+@media screen and (max-width: 576px) {
+  .card {
+    flex: 1 1 100%; /* Full width on smaller screens */
+}
+}
 
 
 
