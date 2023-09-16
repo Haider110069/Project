@@ -420,7 +420,7 @@ margin-top: 10px;
   }
   .Main p{
     font-size: 13px;
-    padding-left: 120px;
+    padding-left: 100px;
   }
   ul li {
     display: inline-block;
@@ -501,8 +501,8 @@ margin-top: 10px;
 
   #links a {
       display: block;
-      padding: 10px 10px;
-      margin-left: 25px;
+      padding: 7px 7px;
+      margin-left: 22px;
   }
 
   .subscription-bar {
