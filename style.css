@@ -32,7 +32,7 @@ ul li {
 }
 
 ul li i {
-  font-size: 18px;
+  font-size: 17px;
   color: white;
 }
 ul li i:hover{
@@ -57,11 +57,12 @@ ul li i:hover{
 
 #nav li a {
   text-decoration: none;
-  font-size: 15px;
+  font-size: 13px;
   color: white;
   transition: 0.37s ease;
   font-style: italic;
   margin-bottom: 10px;
+  margin-left:10px;
 }
 
 /* #nav li i {
