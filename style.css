@@ -412,6 +412,13 @@ margin-top: 10px;
   font-style: italic;
   margin-top: 50px;
 }
+/* About Us CSS */
+.p{
+ width: 1200px;
+ margin-left: 100px;
+ margin-top: 30px;
+ font-size: 18px;
+}
   
 
 @media (max-width: 767px) {
@@ -522,6 +529,13 @@ margin-top: 10px;
 
   .card {
     flex: 1 1 100%; /* Full width on smaller screens */
+}
+  /* About us responsive css */
+.p{
+  font-size: 12px;
+  width: 400px;
+  margin-left: 40px;
+  margin-right: 0px;
 }
 
 }
