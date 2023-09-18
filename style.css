@@ -414,10 +414,10 @@ margin-top: 10px;
 }
 /* About Us CSS */
 .p{
- width: 900px;
+ width: 950px;
  margin-left: 100px;
  margin-top: 30px;
- font-size: 15px;
+ font-size: 17px;
 }
   
 
@@ -533,7 +533,7 @@ margin-top: 10px;
   /* About us responsive css */
 .p{
   font-size: 10px;
-  width: 300px;
+  width: 350px;
   margin-left: 50px;
   margin-right: 0px;
 }
