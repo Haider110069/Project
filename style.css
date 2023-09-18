@@ -62,7 +62,7 @@ ul li i:hover{
   transition: 0.37s ease;
   font-style: italic;
   margin-bottom: 10px;
-  margin-left: 5px; /* Adjust this value to move the items to the left */
+  margin-left: 12px; /* Adjust this value to move the items to the left */
 }
 
 
