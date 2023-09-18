@@ -44,7 +44,7 @@ ul li i:hover{
 #nav {
   display: flex;
   align-items: center;
-  margin-left:900px;
+  margin-left:830px;
 }
 
 #nav li {
@@ -62,7 +62,7 @@ ul li i:hover{
   transition: 0.37s ease;
   font-style: italic;
   margin-bottom: 10px;
-  margin-left: 25px; /* Adjust this value to move the items to the left */
+  margin-left: 20px; /* Adjust this value to move the items to the left */
 }
 
 
@@ -535,8 +535,8 @@ margin-top: 10px;
   /* About us responsive css */
 .p {
   font-size: 10px; /* Adjust the font size to 11px */
-  width: 500px;
-  margin-left: 25px; /* Adjust the margin-left to move it a little to the right */
+  width: 480px;
+  margin-left: 10px; /* Adjust the margin-left to move it a little to the right */
 }
 
 
