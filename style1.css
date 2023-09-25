@@ -437,12 +437,12 @@
       margin-right: -130px; /* Offset the total spacing */
       margin-left: 160px;
     }
-    #nav {
-      display: flex; /* Keep the items displayed inline for mobile */
-      flex-direction: column; /* Stack items vertically */
-      align-items: center; /* Center-align the items */
-      margin-left: -40px; /* Remove the left margin */
-    }
+  #nav {
+    display: inline; /* Keep the items displayed inline for mobile */
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center-align the items */
+    margin-left: 80px;
+  }
   
     #nav li {
       margin: 10px 0; /* Add spacing between items */
