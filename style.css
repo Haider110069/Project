@@ -20,19 +20,19 @@ ul {
   list-style: none;
   padding: 0;
   margin: 2px;
-  margin-left: 40px;
+  margin-left: 20px;
   
 }
 
 ul li {
   display: inline-block;
+      margin-left: 20px;
   margin-top: 8px;
   margin-bottom: 15px;
 }
 
-
 ul li i {
-  font-size: 17px;
+  font-size: 18px;
   color: white;
 }
 ul li i:hover{
@@ -44,7 +44,7 @@ ul li i:hover{
 #nav {
   display: flex;
   align-items: center;
-  margin-left:830px;
+  margin-left: 50px;
 }
 
 #nav li {
@@ -53,18 +53,17 @@ ul li i:hover{
   padding: 0 10px;
   position: relative;
   bottom: 30px;
+  margin-left: 30px;
 }
 
 #nav li a {
   text-decoration: none;
-  font-size: 16px;
+  font-size: 20px;
   color: white;
   transition: 0.37s ease;
   font-style: italic;
   margin-bottom: 10px;
-  margin-left: 20px; /* Adjust this value to move the items to the left */
 }
-
 
 /* #nav li i {
   font-size: 30px;
@@ -414,12 +413,13 @@ margin-top: 10px;
   font-style: italic;
   margin-top: 50px;
 }
+
 /* About Us CSS */
 .p{
- width: 1100px;
- margin-left: 120px;
+ width: 1200px;
+ margin-left: 100px;
  margin-top: 30px;
- font-size: 17px;
+ font-size: 18px;
 }
   
 
@@ -429,7 +429,7 @@ margin-top: 10px;
   }
   .Main p{
     font-size: 13px;
-    padding-left: 90px;
+    padding-left: 120px;
   }
   ul li {
     display: inline-block;
@@ -510,8 +510,8 @@ margin-top: 10px;
 
   #links a {
       display: block;
-      padding: 5px 5px;
-      margin-left: 19px;
+      padding: 7px 7px;
+      margin-left: 22px;
   }
 
   .subscription-bar {
@@ -532,13 +532,13 @@ margin-top: 10px;
   .card {
     flex: 1 1 100%; /* Full width on smaller screens */
 }
-  /* About us responsive css */
-.p {
-  font-size: 10px; /* Adjust the font size to 11px */
-  width: 480px;
-  margin-left: 10px; /* Adjust the margin-left to move it a little to the right */
+/* About us responsive css */
+.p{
+  font-size: 12px;
+  width: 400px;
+  margin-left: 35px;
+  margin-right: 0px;
 }
-
 
 }
 
@@ -547,12 +547,3 @@ margin-top: 10px;
     flex: 1 1 100%; /* Full width on smaller screens */
 }
 }
-
-
-
-
-
-
-
-
-  
