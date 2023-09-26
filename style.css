@@ -44,7 +44,7 @@ ul li i:hover{
 #nav {
   display: flex;
   align-items: center;
-  margin-left: 50px;
+  margin-left: 80px;
 }
 
 #nav li {
