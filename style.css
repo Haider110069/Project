@@ -421,7 +421,35 @@ margin-top: 10px;
  margin-top: 30px;
  font-size: 18px;
 }
-  
+            /* CSS for button styling */
+          .button-group {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .button {
+            padding: 10px 20px;
+            margin: 10px;
+            border: none;
+            background-color: white;
+            color: black;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 18px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-style: italic;
+            font-weight: 600;
+        }
+        .button:hover{
+          color: forestgreen;
+          border: 3px solid forestgreen;
+          border-top: 60px;
+          border-radius: 50px;
+        }
+
 
 @media (max-width: 767px) {
   .Main{
