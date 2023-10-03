@@ -558,7 +558,7 @@ margin-top: 10px;
   }
 
   .card {
-    flex: 1 1 100%; /* Full width on smaller screens */
+    flex: 1 1 100%;
 }
 /* About us responsive css */
 .p{
@@ -567,7 +567,10 @@ margin-top: 10px;
   margin-left: 35px;
   margin-right: 0px;
 }
-
+  .button {
+      font-size: 14px;
+      padding: 2px 7px; 
+  }
 }
 
 @media screen and (max-width: 576px) {
